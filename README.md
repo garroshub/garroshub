@@ -1,1 +1,1 @@
-![Garros's github stats](https://github-readme-stats.vercel.app/api?username=garrosgong-code)]
+![Garros's github stats](https://github-readme-stats.vercel.app/api?username=garrosgong-code)
