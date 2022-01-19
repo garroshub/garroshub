@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://scholar.google.com/citations?user=uwfuukUAAAAJ&hl)
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="300" height="200" />
+
 ### Glad to see you here! &nbsp;
 
 I love to talk data science, technology, investment and sustainability tpoics.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="300" height="200" />
 
 **Talking about Personal Stuffs:**
 
