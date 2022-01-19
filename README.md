@@ -4,9 +4,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I love to talk data science, technology, investment and sustainability tpoics. 
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+I love to talk data science, technology, investment and sustainability tpoics.; <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
