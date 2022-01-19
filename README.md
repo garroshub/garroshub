@@ -15,11 +15,6 @@ I love to talk data science, technology, investment and sustainability tpoics.
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
