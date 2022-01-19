@@ -10,7 +10,7 @@ I love to talk data science, technology, investment and sustainability tpoics.; 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working in the financnial industry;
-- 🚀 I’m currently doing my PhD in Management Sciences: Applied Operational Research (Part-time basis)
+- 🚀 I’m currently doing my PhD in Management Sciences: Applied Operational Research (part-time basis)
 
 📈 **My GitHub Stats:**
 <p>
