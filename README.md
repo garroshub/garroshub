@@ -17,9 +17,6 @@ I love to talk data science, technology, investment and sustainability tpoics.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
 
 
