@@ -12,10 +12,7 @@ I love to talk data science, technology, investment and sustainability tpoics.; 
 - 👨🏻‍💻 I’m currently working in the financnial industry;
 - 🚀 I’m currently doing my PhD in Management Sciences: Applied Operational Research (Part-time basis)
 
-</br>
-
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garrosgong-code&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrosgong-code&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
