@@ -9,6 +9,10 @@
 
 I love to talk data science, technology, investment and sustainability tpoics.
 
+### My Past Work/Research Projects Portfolio (click the button below!)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://garrosgong-code-digital-resume-app-b7nvsy.streamlitapp.com/)
+
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working in the financnial industry;
