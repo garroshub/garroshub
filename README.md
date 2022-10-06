@@ -23,6 +23,6 @@ I love to talk data science, technology, investment and sustainability tpoics.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garroshub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garroshub&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-[GitHub Views](https://komarev.com/ghpvc/?username=garrohub&color=FAC151)
+[![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)][1]
 </p>
 
