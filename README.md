@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I love to talk data science, technology, investment and sustainability tpoics.
+I love to talk data science, technology, investment and sustainability topics.
 
 ### My past work/research projects portfolio (click the button below!)
 
