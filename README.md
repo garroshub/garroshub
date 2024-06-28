@@ -25,3 +25,10 @@ I love to talk data science, technology, investment and sustainability topics.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garroshub&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 </p>
 
+### 📚 Academic Publications
+
+#### [Digital strategies in wildfire management: social media analytics and Web 3.0 integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)
+- **Authors**: Garros Gong, Stanko Dimitrov, Michael R. Bartolacci
+- **Journal**: Discover Sustainability
+- **Year**: 2024
+- **Abstract**: This study proposes the integration of specific social media analytics (SMA) metrics into existing U.S. wildfire management systems to enhance their ability to accurately predict, monitor, and respond to wildfires in a timely manner. In addition, the examination of SMA's influence on shaping wildfire-related policies is addressed in our analysis with respect to the mitigation of the extent and effects of such disasters. Furthermore, the potential of Web 3.0 technologies in achieving these objectives is analyzed as part of this work. The results highlight that advaa analytics (SMA) metrics to wildfire management and along with Web 3.0 integration.
