@@ -10,7 +10,7 @@
 
 I love to talk data science, technology, investment and sustainability topics.
 
-### My past work/research projects portfolio (click the button below!)
+### My digital portfolio
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://garroshub-digital-resume-app-u36q45.streamlitapp.com/)
 
