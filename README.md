@@ -12,7 +12,7 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ### My digital portfolio
 
-[![Personal Website]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://garroshub-digital-resume-app-u36q45.streamlitapp.com/](https://garrosgong.wixsite.com/portfolio))
+[🌐 Personal Website](https://garrosgong.wixsite.com/portfolio)
 
 **Talking about Personal Stuffs:**
 
