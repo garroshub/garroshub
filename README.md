@@ -12,7 +12,7 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ### My digital portfolio
 
-[🌐 Personal Website](https://garrosgong.wixsite.com/portfolio)
+🌐 [Visit My Website](https://garrosgong.wixsite.com/portfolio)
 
 **Talking about Personal Stuffs:**
 
