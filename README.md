@@ -34,6 +34,10 @@ I love to talk data science, technology, investment and sustainability topics.
 - **Abstract**: This study proposes the integration of specific social media analytics (SMA) metrics into existing U.S. wildfire management systems to enhance their ability to accurately predict, monitor, and respond to wildfires in a timely manner. In addition, the examination of SMA's influence on shaping wildfire-related policies is addressed in our analysis with respect to the mitigation of the extent and effects of such disasters. Furthermore, the potential of Web 3.0 technologies in achieving these objectives is analyzed as part of this work. The results highlight that advaa analytics (SMA) metrics to wildfire management and along with Web 3.0 integration.
 - **Keywords**: wildfire management, social media analytics metrics, Web 3.0, policymaking
 
+<p align="center">
+  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ozxyus4jqty6wepgqkl6zalu/bafkreicfv4jkavy7m3f5mt5q5wg67o26526hh6go4kl25tn6onpxf4hfre@jpeg" alt="Digital Strategies in Wildfire Management" width="600">
+</p>
+
 ### 📖 Working Papers
 
 #### [Deconstructing Budgetary Effects: A Post-Keynesian Perspective on Sustainable Budget Development for Wildfire Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4941995)
