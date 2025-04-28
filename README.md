@@ -35,7 +35,7 @@ I love to talk data science, technology, investment and sustainability topics.
 - **Keywords**: wildfire management, social media analytics metrics, Web 3.0, policymaking
 
 <p align="center">
-  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ozxyus4jqty6wepgqkl6zalu/bafkreicfv4jkavy7m3f5mt5q5wg67o26526hh6go4kl25tn6onpxf4hfre@jpeg" alt="Digital Strategies in Wildfire Management" width="600">
+  <img src="https://i.postimg.cc/90YkVrwr/Essay-One.png" alt="Digital Strategies in Wildfire Management" width="600">
 </p>
 
 ### 📖 Working Papers
