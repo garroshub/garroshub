@@ -53,12 +53,12 @@ I love to talk data science, technology, investment and sustainability topics.
 - **Status**: Under Peer Review at Journal of Financial Economics (March 2025)
 - **Abstract**: Provides causal evidence that retail investors respond more sharply to dividend tax changes than institutions, driven by behavioral frictions like income salience and mental accounting rather than just standard incentives.
 
-#### [When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4941995)
+#### [When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness]
 - **Status**: Under Peer Review at Production and Operations Management (January 2025)
 - **Abstract**: Investigates federal wildfire budget allocations, finding that while positive budgetary shocks initially enhance decision accuracy, their effects diminish and grow volatile over the long term, supporting Post-Keynesian fiscal perspectives.
 - **Keywords**: Post-Keynesian, Sustainable Budget Plan, Green Fiscal Policy, Social Media Strategy
 
-#### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4941977)
+#### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs]
 - **Status**: Revise & Resubmit (Major Revision), Production and Operations Management (November 2024)
 - **Abstract**: Uses a temporal gravity score model to show that social media visibility correlates with greater resource deployment. While the direct effect on unit costs is ambiguous, social signals clearly influence allocation decisions.
 - **Keywords**: Wildfire Economics, Social Media Analytics, California Wildfires
