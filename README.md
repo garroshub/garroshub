@@ -11,7 +11,7 @@ I love to talk data science, technology, investment and sustainability topics.
 **Talking about Personal Stuffs:**
 
 - I’m currently working in the financial industry;
-- I hold a **PhD in Management Sciences: Applied Operational Research** (part-time basis)
+- I hold a **PhD in Management Sciences: Applied Operational Research**
 
 <br>
 
