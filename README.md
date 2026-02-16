@@ -12,15 +12,6 @@ I love to talk data science, technology, investment and sustainability topics.
 
 - I’m currently working in the financial industry;
 - I hold a **PhD in Management Sciences: Applied Operational Research**
-
-<br>
-
-![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white)
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garroshub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garroshub&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8">
-</p>
-
 ---
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
