@@ -1,6 +1,9 @@
 ### Hi there, I'm Garros Gong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://scholar.google.com/citations?user=uwfuukUAAAAJ&hl) ![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
+[![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-6b7280?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en)
+![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="320" height="250" />
 
@@ -9,14 +12,14 @@
 I love to talk data science, technology, investment and sustainability topics.
 
 **Talking about Personal Stuffs:**
-
 - I’m currently working in the financial industry;
 - I hold a **PhD in Management Sciences: Applied Operational Research**
+
 ---
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
 <br>
-**Decision Analytics, Applied Economics, Financial Analytics, and Sustainability**
+**AI in Decision-Making, Applied Economics, Financial Analytics, and Sustainability**
 
 <br>
 
@@ -41,24 +44,24 @@ I love to talk data science, technology, investment and sustainability topics.
 ![Working Papers](https://img.shields.io/badge/Working%20Papers-007396?style=flat-square&logo=overleaf&logoColor=white)
 
 #### Who Reacts to Dividend Income Changes? Causal Evidence of Heterogeneous Investor Responses and Behavioral Biases
-- **Status**: Under Peer Review at Journal of Financial Economics (March 2025)
+- **Status**: Under review at *Journal of Behavioral and Experimental Finance* (March 2025)
 - **Abstract**: Provides causal evidence that retail investors respond more sharply to dividend tax changes than institutions, driven by behavioral frictions like income salience and mental accounting rather than just standard incentives.
 
 #### When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness
-- **Status**: Under Peer Review at Journal of Policy Analysis and Management (December 2025)
-- **Abstract**: The rapid expansion of U.S. federal wildfire management budgets raises critical questions about the sustained association between funding levels and operational preparedness. This paper investigates the temporal relationship between federal budget changes and state-level wildfire preparedness accuracy across budget cycles.
-- **Keywords**: Intergovernmental Relations, Public Budgeting, Green Fiscal Policy, Emergency Management, Policy Implementation
-  
+- **Status**: Under review at *Journal of Policy Analysis and Management* (January 2025)
+- **Abstract**: Investigates the temporal relationship between federal budget changes and state-level wildfire preparedness accuracy across budget cycles.
+- **Keywords**: Intergovernmental relations, public budgeting, green fiscal policy, emergency management, policy implementation
+
 #### Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs
-- **Status**: Revise & Resubmit (Major Revision), Production and Operations Management (November 2024)
-- **Abstract**: Uses a temporal gravity score model to show that social media visibility correlates with greater resource deployment. While the direct effect on unit costs is ambiguous, social signals clearly influence allocation decisions.
-- **Keywords**: Wildfire Economics, Social Media Analytics, California Wildfires
+- **Status**: Under review at *Production and Operations Management* (November 2024)
+- **Abstract**: Uses a temporal gravity score model to show that social media visibility correlates with greater resource deployment. While the direct effect on unit costs is ambiguous, social signals influence allocation decisions.
+- **Keywords**: Wildfire economics, social media analytics, California wildfires
 
 <br>
 
 ![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
 
 #### Cost Fungibility in the Age of Neo-Mercantilism: A Structural Estimation of Optimal Corporate Taxation
-- **Started**: December 2025
-- **Abstract**: The resurgence of mercantilism challenges the traditional separation of operations strategy and public finance. This paper bridges this divide by introducing the concept of cost fungibility, which posits that multinational corporations may actively substitute physical supply chain adjustments with fiscal hedging to offset protectionist trade shocks.
--  **Keywords**: Integrated Risk Management, Cost Fungibility, Global Supply Chain Strategy, Transfer Pricing, Strategic Trade Policy 
+- **Status**: Research in progress (2025–Present)
+- **Abstract**: Introduces cost fungibility and studies how multinational firms treat tariffs and taxes as interchangeable regulatory liabilities under protectionist trade shocks.
+- **Keywords**: Integrated risk management, cost fungibility, global supply chain strategy, transfer pricing, strategic trade policy
