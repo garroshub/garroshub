@@ -35,7 +35,7 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ![Conference Presentations](https://img.shields.io/badge/Conference%20Presentations-007396?style=flat-square&logo=microsoft-teams&logoColor=white)
 
-#### Digital Strategies in Wildfire Management: The Advantage of Applying Social Media Analytics and Web 3.0 Integration
+#### [Digital Strategies in Wildfire Management: The Advantage of Applying Social Media Analytics and Web 3.0 Integration](https://sites.psu.edu/informstna/conference-program)
 - **Presented at**: 2024 INFORMS Telecommunications and Network Analytics Conference, Dallas, TX (May 2024)
 - **Abstract**: Advocates for integrating targeted SMA metrics into existing frameworks to improve forecasting accuracy and accelerate response. Evidence suggests even marginal improvements in response times can yield significant economic savings.
 
@@ -47,7 +47,7 @@ I love to talk data science, technology, investment and sustainability topics.
 - **Status**: Under review at *Journal of Behavioral and Experimental Finance* (March 2025)
 - **Abstract**: Provides causal evidence that retail investors respond more sharply to dividend tax changes than institutions, driven by behavioral frictions like income salience and mental accounting rather than just standard incentives.
 
-#### When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness
+#### [When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4941995)
 - **Status**: Under review at *Journal of Policy Analysis and Management* (January 2025)
 - **Abstract**: Investigates the temporal relationship between federal budget changes and state-level wildfire preparedness accuracy across budget cycles.
 - **Keywords**: Intergovernmental relations, public budgeting, green fiscal policy, emergency management, policy implementation
