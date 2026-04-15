@@ -19,49 +19,46 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
 <br>
-**AI in Decision-Making, Applied Economics, Financial Analytics, and Sustainability**
+**Decision Science, AI-Enabled Decision Support, Applied Economics, and Public Policy**
+
+<br>
+
+I am a Management Science scholar studying how organizations and markets adapt decisions under uncertainty. My research combines economic modeling, empirical analysis, and causal inference to examine how information frictions, incentives, and institutional constraints shape resource allocation, strategic response, and decision quality. I study these mechanisms in environmental systems, public budgeting, and organizational operations. My work also extends to AI-enabled decision-support tools and their implications for transparency, accountability, and decision quality in organizations.
 
 <br>
 
 ![Publications](https://img.shields.io/badge/Academic%20Publications-007396?style=flat-square&logo=bookstack&logoColor=white)
 
+#### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://doi.org/10.1177/10591478261445692)
+- **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
+- **Journal**: *Production and Operations Management* (2026)
+- **Keywords**: behavioral operations, crisis response, resource allocation, social media signals, emergency management, visibility-efficiency paradox
+
 #### [Digital Strategies in Wildfire Management: Social Media Analytics and Web 3.0 Integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)
 - **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
-- **Journal**: Discover Sustainability (2024)
-- **Abstract**: Proposes integrating SMA metrics and Web 3.0 into wildfire management to enhance prediction, monitoring, and response efficiency. The analysis highlights the potential of these tools to refine disaster management, balancing predictive accuracy with policy effectiveness.
-- **Keywords**: wildfire management, social media analytics metrics, Web 3.0, policymaking
+- **Journal**: *Discover Sustainability* (2024)
+- **Keywords**: wildfire management, social media analytics, Web 3.0, digital coordination, decision support
 
 <br>
 
 ![Conference Presentations](https://img.shields.io/badge/Conference%20Presentations-007396?style=flat-square&logo=microsoft-teams&logoColor=white)
 
 #### [Digital Strategies in Wildfire Management: The Advantage of Applying Social Media Analytics and Web 3.0 Integration](https://sites.psu.edu/informstna/conference-program)
-- **Presented at**: 2024 INFORMS Telecommunications and Network Analytics Conference, Dallas, TX (May 2024)
-- **Abstract**: Advocates for integrating targeted SMA metrics into existing frameworks to improve forecasting accuracy and accelerate response. Evidence suggests even marginal improvements in response times can yield significant economic savings.
-
-<br>
-
-![Working Papers](https://img.shields.io/badge/Working%20Papers-007396?style=flat-square&logo=overleaf&logoColor=white)
-
-#### Who Reacts to Dividend Income Changes? Causal Evidence of Heterogeneous Investor Responses and Behavioral Biases
-- **Status**: Under review at *Journal of Behavioral and Experimental Finance* (March 2025)
-- **Abstract**: Provides causal evidence that retail investors respond more sharply to dividend tax changes than institutions, driven by behavioral frictions like income salience and mental accounting rather than just standard incentives.
-
-#### [When Do Budgetary Shocks Backfire? Federal-State Funding Gaps in Wildfire Preparedness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4941995)
-- **Status**: Under review at *Journal of Policy Analysis and Management* (January 2025)
-- **Abstract**: Investigates the temporal relationship between federal budget changes and state-level wildfire preparedness accuracy across budget cycles.
-- **Keywords**: Intergovernmental relations, public budgeting, green fiscal policy, emergency management, policy implementation
-
-#### Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs
-- **Status**: Under review at *Production and Operations Management* (November 2024)
-- **Abstract**: Uses a temporal gravity score model to show that social media visibility correlates with greater resource deployment. While the direct effect on unit costs is ambiguous, social signals influence allocation decisions.
-- **Keywords**: Wildfire economics, social media analytics, California wildfires
+- **Presented at**: 2024 INFORMS Telecommunications and Network Analytics Conference, Dallas, TX
+- **Keywords**: digital operations, disaster response, information systems, predictive analytics
 
 <br>
 
 ![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Cost Fungibility in the Age of Neo-Mercantilism: A Structural Estimation of Optimal Corporate Taxation
-- **Status**: Research in progress (2025–Present)
-- **Abstract**: Introduces cost fungibility and studies how multinational firms treat tariffs and taxes as interchangeable regulatory liabilities under protectionist trade shocks.
-- **Keywords**: Integrated risk management, cost fungibility, global supply chain strategy, transfer pricing, strategic trade policy
+#### Cost Fungibility in the Age of Neo-Mercantilism: Trade-Tax Substitution and Fiscal Space
+- **Timeline**: 2025–Present
+- **Keywords**: applied economics, trade policy, taxation, strategic adaptation, cost fungibility
+
+#### Asynchronous Market Adjustment to Dividend Tax Shocks: Heterogeneous Responses and Coordination Frictions
+- **Timeline**: 2026–Present
+- **Keywords**: dividend taxation, market microstructure, investor heterogeneity, coordination frictions
+
+#### AI-Enabled Decision Support for Tail-Risk Events in Prediction Markets
+- **Timeline**: 2026–Present
+- **Keywords**: AI decision support, tail risk, prediction markets, probabilistic forecasting, interpretable systems
