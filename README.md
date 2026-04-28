@@ -19,7 +19,7 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
 <br>
-**Decision Science, AI-Enabled Decision Support, Sustainable operations management, and Public Policy**
+**Decision Science, AI-Enabled Decision Support, Sustainable Operations Management, and Public Policy**
 
 <br>
 
