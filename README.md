@@ -19,11 +19,11 @@ I love to talk data science, technology, investment and sustainability topics.
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
 <br>
-**Decision Science, AI-Enabled Decision Support, Applied Economics, and Public Policy**
+**Decision Science, AI-Enabled Decision Support, Sustainable operations management, and Public Policy**
 
 <br>
 
-I am a Management Science scholar studying how organizations and markets adapt decisions under uncertainty. My research combines economic modeling, empirical analysis, and causal inference to examine how information frictions, incentives, and institutional constraints shape resource allocation, strategic response, and decision quality. I study these mechanisms in environmental systems, public budgeting, and organizational operations. My work also extends to AI-enabled decision-support tools and their implications for transparency, accountability, and decision quality in organizations.
+I am a management science scholar whose research agenda begins in sustainable operations management and extends to how organizations and markets adapt under uncertainty. Using economic modeling, empirical analysis, and causal inference, I study how information frictions, incentives, and institutional constraints shape resource allocation and decision quality across environmental systems, public budgeting, market adjustment, and AI-enabled decision support. My prior experience in the financial sector gives me a grounded perspective on the decisions and constraints I study.
 
 <br>
 
