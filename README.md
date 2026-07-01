@@ -7,23 +7,21 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="320" height="250" />
 
-### Glad to see you here! &nbsp;
+### About
 
-I love to talk data science, technology, investment and sustainability topics.
+I am an empirical operations management researcher working at the intersection of business analytics, applied economics and finance, and AI-enabled decision support. My research studies how information frictions, incentives, risk exposure, and operational constraints shape decision quality across supply chains, emergency response, financial markets, and data-driven business settings.
 
-**Talking about Personal Stuffs:**
-- I’m currently working in the financial industry;
-- I hold a **PhD in Management Sciences: Applied Operational Research**
+I recently completed my Ph.D. in Management Sciences at the University of Waterloo. I also bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, and fixed-income research.
 
 ---
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
 <br>
-**Decision Science, AI-Enabled Decision Support, Sustainable Operations Management, and Public Policy**
+**Business Analytics, AI-Enabled Decision Support, Sustainable Operations Management, Supply-Chain Resilience, and Applied Economics and Finance**
 
 <br>
 
-I am a management science scholar whose research agenda begins in sustainable operations management and extends to how organizations and markets adapt under uncertainty. Using economic modeling, empirical analysis, and causal inference, I study how information frictions, incentives, and institutional constraints shape resource allocation and decision quality across environmental systems, public budgeting, market adjustment, and AI-enabled decision support. My prior experience in the financial sector gives me a grounded perspective on the decisions and constraints I study.
+My research agenda examines how organizations and markets adapt under uncertainty. Using economic modeling, empirical analysis, causal inference, and machine-learning tools, I study resource allocation and decision quality in settings where data, incentives, and operating constraints interact.
 
 <br>
 
@@ -32,7 +30,7 @@ I am a management science scholar whose research agenda begins in sustainable op
 #### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://doi.org/10.1177/10591478261445692)
 - **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
 - **Journal**: *Production and Operations Management* (2026)
-- **Keywords**: behavioral operations, crisis response, resource allocation, social media signals, emergency management, visibility-efficiency paradox
+- **Keywords**: empirical operations, emergency response, resource allocation, digital signals, decision-making under uncertainty
 
 #### [Digital Strategies in Wildfire Management: Social Media Analytics and Web 3.0 Integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)
 - **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
@@ -51,14 +49,18 @@ I am a management science scholar whose research agenda begins in sustainable op
 
 ![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Cost Fungibility in the Age of Neo-Mercantilism: Trade-Tax Substitution and Fiscal Space
-- **Timeline**: 2025–Present
-- **Keywords**: applied economics, trade policy, taxation, strategic adaptation, cost fungibility
+#### Benchmarking Supply Chain Resilience
+- **Status**: Major Revision, *Omega*
+- **Keywords**: supply-chain resilience, business analytics, decision support, network exposure, operating risk
 
-#### Asynchronous Market Adjustment to Dividend Tax Shocks: Heterogeneous Responses and Coordination Frictions
-- **Timeline**: 2026–Present
-- **Keywords**: dividend taxation, market microstructure, investor heterogeneity, coordination frictions
+#### Mechanism Uncertainty in Firm Adaptation to Supply-Chain Shocks
+- **Status**: Under Review, *Management Science*
+- **Keywords**: firm adaptation, causal inference, supply-chain shocks, empirical operations, mechanism evaluation
 
-#### AI-Enabled Decision Support for Tail-Risk Events in Prediction Markets
-- **Timeline**: 2026–Present
-- **Keywords**: AI decision support, tail risk, prediction markets, probabilistic forecasting, interpretable systems
+#### When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets
+- **Status**: Resubmitted, *Decision Sciences Journal*
+- **Keywords**: AI-enabled decision support, text analytics, financial markets, calibration, risk analytics
+
+#### Trade-Policy Exposure and Managerial Adjustment Margins
+- **Status**: Under Review, *Managerial and Decision Economics*
+- **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
