@@ -64,3 +64,9 @@ My research agenda examines how organizations and markets adapt under uncertaint
 #### Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence from Corporate Tax-Base Outcomes
 - **Status**: Under Review, *Managerial and Decision Economics*
 - **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
+
+<br>
+
+![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=nba&logoColor=white)
+
+As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) uses public NBA data to evaluate defensive impact across multiple dimensions, with the 2025-26 full-season rankings now updated.
