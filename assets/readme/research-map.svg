@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Research agenda map</title>
-  <desc id="desc">A visual map of Garros Gong's research agenda, connecting data, incentives, risk exposure, and operational constraints to decision quality across several empirical domains.</desc>
+  <desc id="desc">A visual map of Garros Gong's research agenda across applied economics, supply chains, AI-enabled decisions, and sustainability.</desc>
   <rect width="1200" height="360" rx="22" fill="#0b0f14"/>
   <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#263241" stroke-width="2"/>
 
   <text x="56" y="62" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="34" font-weight="760">Research Agenda</text>
-  <text x="56" y="96" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2">UNCERTAINTY -> MEASUREMENT -> DECISION QUALITY</text>
+  <text x="56" y="96" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2">APPLIED ECON -> SUPPLY CHAINS -> AI DECISIONS -> SUSTAINABILITY</text>
 
   <g transform="translate(56 140)">
     <rect width="210" height="72" rx="12" fill="#10243a" stroke="#38bdf8"/>
-    <text x="24" y="31" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Data</text>
-    <text x="24" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">signals and frictions</text>
+    <text x="24" y="31" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Applied Econ</text>
+    <text x="24" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">empirical evidence</text>
 
     <rect x="250" width="210" height="72" rx="12" fill="#0f2d33" stroke="#2dd4bf"/>
-    <text x="274" y="31" fill="#ccfbf1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Incentives</text>
-    <text x="274" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">organizational response</text>
+    <text x="274" y="31" fill="#ccfbf1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Supply Chains</text>
+    <text x="274" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">resilience and exposure</text>
 
     <rect x="500" width="210" height="72" rx="12" fill="#2b2112" stroke="#fac151"/>
-    <text x="524" y="31" fill="#fef3c7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Risk Exposure</text>
-    <text x="524" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">shocks and uncertainty</text>
+    <text x="524" y="31" fill="#fef3c7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">AI Decisions</text>
+    <text x="524" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">calibration and support</text>
 
     <rect x="750" width="250" height="72" rx="12" fill="#1e1b2e" stroke="#a78bfa"/>
-    <text x="774" y="31" fill="#ede9fe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Operational Constraints</text>
-    <text x="774" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">capacity, timing, networks</text>
+    <text x="774" y="31" fill="#ede9fe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">Sustainability</text>
+    <text x="774" y="52" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">operations and impact</text>
   </g>
 
   <path d="M158 232C246 278 338 284 432 250C526 216 610 216 692 252C774 288 872 282 984 232" fill="none" stroke="#334155" stroke-width="2"/>
@@ -30,7 +30,7 @@
 
   <g transform="translate(352 254)">
     <rect width="496" height="64" rx="14" fill="#111827" stroke="#475569"/>
-    <text x="34" y="28" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" font-weight="700">Decision quality under uncertainty</text>
+    <text x="34" y="28" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" font-weight="700">Decision quality and sustainable operations</text>
     <text x="34" y="49" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">resource allocation / adaptation / calibration / resilience</text>
   </g>
 </svg>

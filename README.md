@@ -11,9 +11,11 @@
 
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="320" height="250" />
+
 ### About
 
-I am an empirical operations management researcher working at the intersection of business analytics, applied economics and finance, and AI-enabled decision support. My research studies how information frictions, incentives, risk exposure, and operational constraints shape decision quality across supply chains, emergency response, financial markets, and data-driven business settings.
+I am an empirical operations management researcher working at the intersection of applied economics, supply chains, AI-enabled decision support, and sustainability. My research studies how information frictions, incentives, and operational constraints shape decision quality across data-driven business settings.
 
 I recently completed my Ph.D. in Management Sciences at the University of Waterloo. I also bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, and fixed-income research.
 
@@ -30,7 +32,7 @@ My research agenda examines how organizations and markets adapt under uncertaint
 <br>
 
 <p align="center">
-  <img src="assets/readme/research-map.svg" alt="Research agenda map connecting data, incentives, risk exposure, and operational constraints to decision quality" width="100%" />
+  <img src="assets/readme/research-map.svg" alt="Research agenda map across applied economics, supply chains, AI-enabled decisions, and sustainability" width="100%" />
 </p>
 
 <br>
