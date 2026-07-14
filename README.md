@@ -1,11 +1,15 @@
-### Hi there, I'm Garros Gong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="assets/readme/profile-hero.svg" alt="Garros Gong: empirical operations management, business analytics, applied economics and finance, and AI-enabled decision support" width="100%" />
+</p>
+
+<p align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-6b7280?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en)
 ![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="320" height="250" />
+</p>
 
 ### About
 
@@ -22,6 +26,12 @@ I recently completed my Ph.D. in Management Sciences at the University of Waterl
 <br>
 
 My research agenda examines how organizations and markets adapt under uncertainty. Using economic modeling, empirical analysis, causal inference, and machine-learning tools, I study resource allocation and decision quality in settings where data, incentives, and operating constraints interact.
+
+<br>
+
+<p align="center">
+  <img src="assets/readme/research-map.svg" alt="Research agenda map connecting data, incentives, risk exposure, and operational constraints to decision quality" width="100%" />
+</p>
 
 <br>
 

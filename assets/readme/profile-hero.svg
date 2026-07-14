@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Garros Gong GitHub profile</title>
+  <desc id="desc">Profile hero for Garros Gong, an empirical operations management researcher working across business analytics, applied economics and finance, and AI-enabled decision support.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071012"/>
+      <stop offset="0.56" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.45" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#fac151"/>
+    </linearGradient>
+    <clipPath id="panelClip">
+      <rect x="748" y="58" width="360" height="280" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#263241" stroke-width="2"/>
+
+  <g opacity="0.35">
+    <path d="M68 334C170 302 254 324 354 264C454 204 540 118 642 164C744 210 798 326 902 276C1006 226 1054 126 1134 92" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M70 374C196 354 282 284 392 298C502 312 560 366 662 334C764 302 826 194 934 174C1042 154 1080 198 1134 184" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+    <path d="M70 114H1130M70 174H1130M70 234H1130M70 294H1130" stroke="#263241" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(64 58)">
+    <rect width="176" height="30" rx="15" fill="#102932" stroke="#28556a"/>
+    <text x="18" y="20" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.4">EMPIRICAL OM</text>
+
+    <text x="0" y="105" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="70" font-weight="780">Garros Gong</text>
+    <text x="3" y="148" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="23">Business analytics, applied economics and finance,</text>
+    <text x="3" y="181" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="23">and AI-enabled decision support.</text>
+
+    <path d="M0 220H560" stroke="url(#accent)" stroke-width="3"/>
+
+    <text x="0" y="270" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20">How information frictions, incentives, risk exposure, and</text>
+    <text x="0" y="300" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20">operational constraints shape decision quality.</text>
+  </g>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="748" y="58" width="360" height="280" rx="20" fill="#0b1220" stroke="#263241"/>
+    <path d="M780 284L840 228L900 246L960 154L1020 184L1074 112" fill="none" stroke="#38bdf8" stroke-width="4"/>
+    <path d="M780 294L840 276L900 204L960 226L1020 146L1074 168" fill="none" stroke="#2dd4bf" stroke-width="4"/>
+    <circle cx="960" cy="154" r="7" fill="#fac151"/>
+    <circle cx="1020" cy="146" r="7" fill="#fac151"/>
+    <path d="M778 104H1078" stroke="#1f2937"/>
+    <path d="M778 154H1078" stroke="#1f2937"/>
+    <path d="M778 204H1078" stroke="#1f2937"/>
+    <path d="M778 254H1078" stroke="#1f2937"/>
+  </g>
+
+  <g transform="translate(772 72)">
+    <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">RESEARCH DOMAINS</text>
+    <g transform="translate(0 42)">
+      <rect width="136" height="42" rx="9" fill="#0f2d33" stroke="#2dd4bf"/>
+      <text x="16" y="27" fill="#ccfbf1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Supply chains</text>
+      <rect x="156" width="136" height="42" rx="9" fill="#10243a" stroke="#38bdf8"/>
+      <text x="172" y="27" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Emergency data</text>
+      <rect y="58" width="136" height="42" rx="9" fill="#2b2112" stroke="#fac151"/>
+      <text x="16" y="85" fill="#fef3c7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Market risk</text>
+      <rect x="156" y="58" width="136" height="42" rx="9" fill="#1e1b2e" stroke="#a78bfa"/>
+      <text x="172" y="85" fill="#ede9fe" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">AI decisions</text>
+    </g>
+  </g>
+
+  <g transform="translate(772 360)">
+    <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">causal inference / machine learning / economic modeling / decision support</text>
+  </g>
+</svg>
