@@ -62,23 +62,19 @@ My research agenda examines how organizations and markets adapt under uncertaint
 ![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
 
 #### Benchmarking Supply Chain Resilience: An Exposure-Conditioned Decision Framework
-- **Status**: Major Revision, *Omega*
 - **Keywords**: supply-chain resilience, business analytics, decision support, network exposure, operating risk
 
 #### Mechanism Uncertainty in Firm Adaptation to Supply-Chain Shocks: A Causal-Atlas Approach
-- **Status**: Under Review, *Management Science*
 - **Keywords**: firm adaptation, causal inference, supply-chain shocks, empirical operations, mechanism evaluation
 
-#### When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets
-- **Status**: Resubmitted, *Decision Sciences Journal*
+#### [When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets](https://papers.ssrn.com/abstract=7005158)
 - **Keywords**: AI-enabled decision support, text analytics, financial markets, calibration, risk analytics
 
 #### Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence from Corporate Tax-Base Outcomes
-- **Status**: Under Review, *Managerial and Decision Economics*
 - **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
 
 <br>
 
 ![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=nba&logoColor=white)
 
-As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) uses public NBA data to evaluate defensive impact across multiple dimensions, with the 2025-26 full-season rankings now updated.
+As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) and [NCAA Basketball Defensive Fingerprint Scout](https://github.com/garroshub/college-basketball-defensive-fingerprint-scout) uses public NBA and NCAA data to evaluate defensive impact across multiple dimensions.
