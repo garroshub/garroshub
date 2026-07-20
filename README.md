@@ -77,4 +77,4 @@ My research agenda examines how organizations and markets adapt under uncertaint
 
 ![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=nba&logoColor=white)
 
-As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) and [NCAA Basketball Defensive Fingerprint Scout](https://github.com/garroshub/college-basketball-defensive-fingerprint-scout) uses public NBA and NCAA data to evaluate defensive impact across multiple dimensions.
+As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) and [NCAA Basketball Defensive Fingerprint Scout](https://github.com/garroshub/college-basketball-defensive-fingerprint-scout) use public NBA and NCAA data to evaluate defensive impact across multiple dimensions.
