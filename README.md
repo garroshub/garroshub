@@ -44,6 +44,13 @@ My research agenda examines how organizations and markets adapt under uncertaint
 - **Journal**: *Production and Operations Management* (2026)
 - **Keywords**: empirical operations, emergency response, resource allocation, digital signals, decision-making under uncertainty
 
+#### [Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence From Corporate Tax-Base Outcomes](https://doi.org/10.1002/mde.70150)
+- **Authors**: Gong, G., & Dimitrov, S.
+- **Journal**: *Managerial and Decision Economics* (2026)
+- **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
+
+[![Research Page](https://img.shields.io/badge/Research%20Page-View-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/trade_policy_adjustment_margins/)
+
 #### [Digital Strategies in Wildfire Management: Social Media Analytics and Web 3.0 Integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)
 - **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
 - **Journal**: *Discover Sustainability* (2024)
@@ -69,9 +76,6 @@ My research agenda examines how organizations and markets adapt under uncertaint
 
 #### [When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets](https://papers.ssrn.com/abstract=7005158)
 - **Keywords**: AI-enabled decision support, text analytics, financial markets, calibration, risk analytics
-
-#### Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence from Corporate Tax-Base Outcomes
-- **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
 
 <br>
 
