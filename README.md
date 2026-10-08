@@ -1,13 +1,14 @@
+
 <p align="center">
   <img src="assets/readme/profile-hero.svg" alt="Garros Gong: empirical operations management, business analytics, applied economics and finance, and AI-enabled decision support" width="100%" />
 </p>
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-6b7280?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en)
-![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=garroshub&color=FAC151)
 
 </p>
 
@@ -15,24 +16,24 @@
 
 ### About
 
-I am an empirical operations management researcher working at the intersection of applied economics, supply chains, AI-enabled decision support, and sustainability. My research studies how information frictions, incentives, and operational constraints shape decision quality across data-driven business settings.
+I am an empirical management science researcher working across operations management, business analytics, applied economics and finance, and AI-enabled decision support. My research examines how information, uncertainty, incentives, and operational constraints affect business decisions.
 
-I recently completed my Ph.D. in Management Sciences at the University of Waterloo. I also bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, and fixed-income research.
+I earned my Ph.D. in Management Sciences (Operations Research) from the University of Waterloo in 2026. I also hold an M.Sc. from Ivey Business School and bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, analytics, and applied AI.
 
 ---
 
 ![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
-<br>
+
 **Business Analytics, AI-Enabled Decision Support, Sustainable Operations Management, Supply-Chain Resilience, and Applied Economics and Finance**
 
 <br>
 
-My research agenda examines how organizations and markets adapt under uncertainty. Using economic modeling, empirical analysis, causal inference, and machine-learning tools, I study resource allocation and decision quality in settings where data, incentives, and operating constraints interact.
+My research agenda examines how organizations and markets adapt under uncertainty. I use econometrics, causal inference, network analysis, machine learning, and optimization to study when new information improves decisions under realistic operational constraints.
 
 <br>
 
 <p align="center">
-  <img src="assets/readme/research-map.svg" alt="Research agenda map across applied economics, supply chains, AI-enabled decisions, and sustainability" width="100%" />
+  <img src="assets/readme/research-map.svg" alt="Research agenda across applied economics, supply chains, AI-enabled decision support, and sustainability" width="100%" />
 </p>
 
 <br>
@@ -42,12 +43,12 @@ My research agenda examines how organizations and markets adapt under uncertaint
 #### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://doi.org/10.1177/10591478261445692)
 - **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
 - **Journal**: *Production and Operations Management* (2026)
-- **Keywords**: empirical operations, emergency response, resource allocation, digital signals, decision-making under uncertainty
+- **Keywords**: empirical operations, emergency response, resource allocation, social-media signals, operational efficiency
 
 #### [Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence From Corporate Tax-Base Outcomes](https://doi.org/10.1002/mde.70150)
 - **Authors**: Gong, G., & Dimitrov, S.
 - **Journal**: *Managerial and Decision Economics* (2026)
-- **Keywords**: applied economics, trade policy, firm adjustment, tax-base outcomes, managerial decision-making
+- **Keywords**: applied economics, trade policy, managerial adjustment, corporate tax, policy regimes
 
 [![Research Page](https://img.shields.io/badge/Research%20Page-View-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/trade_policy_adjustment_margins/)
 
@@ -68,17 +69,56 @@ My research agenda examines how organizations and markets adapt under uncertaint
 
 ![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Benchmarking Supply Chain Resilience: An Exposure-Conditioned Decision Framework
-- **Keywords**: supply-chain resilience, business analytics, decision support, network exposure, operating risk
+#### Benchmarking Supply Chain Resilience: An Exposure-Conditioned Decision-Support Framework
+- **Status**: Major Revision, *Omega*
+- **Keywords**: supply-chain resilience, network exposure, risk benchmarking, business analytics, decision support
 
-#### Mechanism Uncertainty in Firm Adaptation to Supply-Chain Shocks: A Causal-Atlas Approach
-- **Keywords**: firm adaptation, causal inference, supply-chain shocks, empirical operations, mechanism evaluation
+#### The Task-Specific Predictive and Decision Value of Customer Reconfiguration
+- **Status**: Under Peer Review, *Management Science*
+- **Authorship**: Solo-authored
+- **Keywords**: customer networks, supply-chain adaptation, predictive value, surveillance allocation, decision analytics
 
 #### [When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets](https://papers.ssrn.com/abstract=7005158)
-- **Keywords**: AI-enabled decision support, text analytics, financial markets, calibration, risk analytics
+- **Status**: Major Revision, *Decision Sciences Journal*
+- **Keywords**: AI-enabled decision support, text analytics, prediction markets, probability calibration, risk decisions
+
+#### Risk-Responsive Public Resource Allocation: Evidence and Decision Design in U.S. Wildfire Management
+- **Status**: Under Peer Review, *Manufacturing & Service Operations Management*
+- **Keywords**: resource allocation, sustainable operations, wildfire management, risk forecasting, constrained optimization
+
+#### Integration Without Synchronization: Stage–Channel Fit in Firms' Climate Strategies Under Political Rollback Signals
+- **Status**: Under Peer Review, *Strategic Management Journal*
+- **Keywords**: corporate climate strategy, nonmarket strategy, political uncertainty, firm adaptation, sustainability
+
+#### A Multi-Margin View of Financial Decisions: Valuation and Trading Around the 2013 U.S. Tax Changes
+- **Status**: Under Peer Review, *Journal of International Financial Management & Accounting*
+- **Keywords**: financial economics, tax policy, event studies, valuation, trading behavior
 
 <br>
 
-![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=nba&logoColor=white)
+![AI-Enabled Decision Projects](https://img.shields.io/badge/AI--Enabled%20Decision-111827?style=flat-square&logo=github&logoColor=white)
+
+I develop open-source tools that connect statistical models, machine learning, and AI agents with evidence-based business decisions. My projects focus on model validation, interpretability, and the conditions under which AI systems should influence or control a decision.
+
+#### [AI Economist Skill](https://github.com/garroshub/ai-economist-skill)
+
+An installable agent skill for macroeconomic nowcasting and monetary-policy analysis. It combines structural statistical baselines with machine-learning calibration to evaluate GDP forecasts and policy-rate signals for the United States and Canada. The workflow includes out-of-sample backtesting, data-timing controls, and interpretable model comparisons.
+
+**Focus**: Macroeconomic forecasting, interpretable ML, statistical modeling, central-bank policy diagnostics
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Explore-0e76a8?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/ai-economist-skill/)
+
+#### [Agent Decision Harness](https://github.com/garroshub/AgentDecisionHarness)
+
+An open-source framework for evidence-grounded financial prediction using LLMs and specialized statistical models. It evaluates when forecasting authority should be delegated to a specialist based on historical qualification, task applicability, and conditional routing. The framework also audits prediction records for consistency between classifications, estimates, intervals, and supporting evidence.
+
+**Focus**: Agentic AI, decision authority, financial forecasting, model governance, interpretable decision support
+
+[![Interactive Demo](https://img.shields.io/badge/Interactive%20Demo-Explore-0e76a8?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/AgentDecisionHarness/page-demo/)
+[![Technical Report](https://img.shields.io/badge/Technical%20Report-Read-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/garroshub/AgentDecisionHarness/blob/main/paper/technical_report.pdf)
+
+<br>
+
+![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=github&logoColor=white)
 
 As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) and [NCAA Basketball Defensive Fingerprint Scout](https://github.com/garroshub/college-basketball-defensive-fingerprint-scout) use public NBA and NCAA data to evaluate defensive impact across multiple dimensions.
