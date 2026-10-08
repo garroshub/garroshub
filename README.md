@@ -8,7 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-6b7280?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en)
-![GitHub Views](https://komarev.com/ghpvc/?username=garroshub&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
 
 </p>
 
