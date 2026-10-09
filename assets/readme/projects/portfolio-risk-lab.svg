@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="124" viewBox="0 0 560 124" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio Risk &amp; Rebalancing Lab</title><desc id="desc">Risk scenarios and allocation choices; open the GitHub repository.</desc>
+<rect x="1" y="1" width="558" height="122" rx="14" fill="#101820" stroke="#293846" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="122" rx="3" fill="#38bdf8"/>
+<rect x="19" y="18" width="101" height="88" rx="12" fill="#152733"/>
+<g transform="translate(20 8) scale(0.82)" color="#38bdf8" stroke-linecap="round" stroke-linejoin="round"><rect x="22" y="23" width="67" height="61" rx="6" stroke="currentColor" fill="none" stroke-width="3"/><path d="M35 71V60M49 71V47M63 71V53M77 71V35" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><path d="M31 38L48 32L65 40L80 29" stroke="currentColor" stroke-width="2" fill="none"/></g>
+<text x="139" y="29" font-size="13" font-weight="750" fill="#38bdf8" letter-spacing="2.2">QUANT FINANCE</text>
+<text x="139" y="54" font-size="26" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Portfolio Risk &amp;</text>
+<text x="139" y="82" font-size="26" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Rebalancing Lab</text>
+<text x="139" y="103" font-size="16" fill="#9bb0bd">Risk scenarios and allocation choices</text>
+<path d="M525 54h15m-7-7 7 7-7 7" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

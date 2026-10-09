@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="45" viewBox="0 0 260 45" role="img" aria-labelledby="title desc">
+<title id="title">Harness · Report</title><desc id="desc">Open Harness · Report resource</desc>
+<rect x="1" y="1" width="258" height="43" rx="8" fill="#132029" stroke="#2c3e48" stroke-width="1.5"/>
+<g color="#2dd4bf" stroke-linecap="round" stroke-linejoin="round"><path d="M17 9H26L31 14V29H17Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M26 9V14H31M20 19H27M20 23H26" stroke="currentColor" stroke-width="1.8" fill="none"/></g>
+<text x="46" y="29" fill="#e8f4fa" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="620">Harness · Report</text>
+<path d="M233 13H246V26M235 24L246 13" stroke="#2dd4bf" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="45" viewBox="0 0 260 45" role="img" aria-labelledby="title desc">
+<title id="title">Risk Lab · Demo</title><desc id="desc">Open Risk Lab · Demo resource</desc>
+<rect x="1" y="1" width="258" height="43" rx="8" fill="#132029" stroke="#2c3e48" stroke-width="1.5"/>
+<g color="#38bdf8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 28H32M14 29V11M17 24L22 19L26 21L32 12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="46" y="29" fill="#e8f4fa" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="620">Risk Lab · Demo</text>
+<path d="M233 13H246V26M235 24L246 13" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

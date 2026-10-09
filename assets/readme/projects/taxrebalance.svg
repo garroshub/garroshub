@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="124" viewBox="0 0 560 124" role="img" aria-labelledby="title desc">
+<title id="title">TaxRebalance</title><desc id="desc">Tax-aware trades and constraints; open the GitHub repository.</desc>
+<rect x="1" y="1" width="558" height="122" rx="14" fill="#101820" stroke="#293846" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="122" rx="3" fill="#38bdf8"/>
+<rect x="19" y="18" width="101" height="88" rx="12" fill="#152733"/>
+<g transform="translate(20 8) scale(0.82)" color="#38bdf8" stroke-linecap="round" stroke-linejoin="round"><path d="M29 19H84V83L75 76L65 83L54 76L43 83L29 76Z" stroke="currentColor" stroke-width="3" fill="none" stroke-linejoin="round"/><path d="M42 37H71M42 47H71M42 59H58" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="75" cy="62" r="9" stroke="currentColor" stroke-width="3" fill="#0b141b"/></g>
+<text x="139" y="29" font-size="13" font-weight="750" fill="#38bdf8" letter-spacing="2.2">QUANT FINANCE</text>
+<text x="139" y="65" font-size="28" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">TaxRebalance</text>
+<text x="139" y="98" font-size="18" fill="#9bb0bd">Tax-aware trades and constraints</text>
+<path d="M525 54h15m-7-7 7 7-7 7" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

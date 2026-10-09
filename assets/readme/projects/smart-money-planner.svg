@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="124" viewBox="0 0 560 124" role="img" aria-labelledby="title desc">
+<title id="title">Smart Money Planner Agent</title><desc id="desc">Rules, guardrails and agent reporting; open the GitHub repository.</desc>
+<rect x="1" y="1" width="558" height="122" rx="14" fill="#101820" stroke="#293846" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="122" rx="3" fill="#2dd4bf"/>
+<rect x="19" y="18" width="101" height="88" rx="12" fill="#152733"/>
+<g transform="translate(20 8) scale(0.82)" color="#2dd4bf" stroke-linecap="round" stroke-linejoin="round"><rect x="25" y="21" width="62" height="65" rx="9" stroke="currentColor" fill="none" stroke-width="3"/><path d="M37 42l5 5 9-12M57 41h18M37 64l5 5 9-12M57 63h18" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="139" y="29" font-size="13" font-weight="750" fill="#2dd4bf" letter-spacing="2.2">AI DECISION</text>
+<text x="139" y="54" font-size="26" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Smart Money</text>
+<text x="139" y="82" font-size="26" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Planner Agent</text>
+<text x="139" y="103" font-size="16" fill="#9bb0bd">Rules, guardrails and agent reporting</text>
+<path d="M525 54h15m-7-7 7 7-7 7" fill="none" stroke="#2dd4bf" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

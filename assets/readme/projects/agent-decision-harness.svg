@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="124" viewBox="0 0 560 124" role="img" aria-labelledby="title desc">
+<title id="title">Agent Decision Harness</title><desc id="desc">Qualification-gated financial forecasts; open the GitHub repository.</desc>
+<rect x="1" y="1" width="558" height="122" rx="14" fill="#101820" stroke="#293846" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="122" rx="3" fill="#2dd4bf"/>
+<rect x="19" y="18" width="101" height="88" rx="12" fill="#152733"/>
+<g transform="translate(20 8) scale(0.82)" color="#2dd4bf" stroke-linecap="round" stroke-linejoin="round"><path d="M34 39L61 27L86 43M36 40L63 69L87 44" stroke="currentColor" stroke-width="3" fill="none"/><circle cx="32" cy="40" r="9" stroke="currentColor" stroke-width="3" fill="#0c171c"/><circle cx="63" cy="26" r="9" stroke="currentColor" stroke-width="3" fill="#0c171c"/><circle cx="88" cy="44" r="9" stroke="currentColor" stroke-width="3" fill="#0c171c"/><circle cx="63" cy="70" r="9" stroke="currentColor" stroke-width="3" fill="#0c171c"/></g>
+<text x="139" y="29" font-size="13" font-weight="750" fill="#2dd4bf" letter-spacing="2.2">AI DECISION</text>
+<text x="139" y="65" font-size="28" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Agent Decision Harness</text>
+<text x="139" y="98" font-size="18" fill="#9bb0bd">Qualification-gated financial forecasts</text>
+<path d="M525 54h15m-7-7 7 7-7 7" fill="none" stroke="#2dd4bf" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

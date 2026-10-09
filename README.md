@@ -1,124 +1,99 @@
-
 <p align="center">
-  <img src="assets/readme/profile-hero.svg" alt="Garros Gong: empirical operations management, business analytics, applied economics and finance, and AI-enabled decision support" width="100%" />
+  <img src="assets/readme/profile-hero.svg" width="100%" alt="Garros Gong — research in empirical operations, business analytics, applied economics and finance, and AI-enabled decision support.">
 </p>
 
 <p align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garros-gong)
-[![Personal Page](https://img.shields.io/badge/Personal%20Page-Visit-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-6b7280?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en)
-![GitHub Views](https://komarev.com/ghpvc/?username=garroshubn&color=FAC151)
-
+  <a href="https://www.linkedin.com/in/garros-gong"><img src="assets/readme/social/linkedin.svg" height="42" alt="LinkedIn profile"></a>
+  <a href="https://garroshub.github.io/"><img src="assets/readme/social/website.svg" height="42" alt="Personal website"></a>
+  <a href="https://scholar.google.ca/citations?user=uwfuukUAAAAJ&hl=en"><img src="assets/readme/social/scholar.svg" height="42" alt="Google Scholar publications"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="320" height="250" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=garroshub&color=38bdf8&style=flat-square" alt="GitHub profile views">
+</p>
 
-### About
+## About
 
-I am an empirical management science researcher working across operations management, business analytics, applied economics and finance, and AI-enabled decision support. My research examines how information, uncertainty, incentives, and operational constraints affect business decisions.
+I am an empirical management science researcher working across operations management, business analytics, applied economics and finance, and AI-enabled decision support. My research examines how information, uncertainty, incentives, and operational constraints shape business decisions.
 
-I earned my Ph.D. in Management Sciences (Operations Research) from the University of Waterloo in 2026. I also hold an M.Sc. from Ivey Business School and bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, analytics, and applied AI.
+I earned my Ph.D. in Management Sciences (Operations Research) from the University of Waterloo in 2026 and hold an M.Sc. from Ivey Business School. I also bring senior finance-industry experience in pricing, profitability, investment strategy, treasury, analytics, and applied AI.
 
 ---
 
-![Research Interest](https://img.shields.io/badge/Research%20Interest-007396?style=flat-square&logo=google-scholar&logoColor=white)
+## Selected Open-Source Projects
 
-**Business Analytics, AI-Enabled Decision Support, Sustainable Operations Management, Supply-Chain Resilience, and Applied Economics and Finance**
+I build research-driven decision tools that make assumptions, risk constraints, and model outputs easier to inspect. The projects below span AI-enabled workflows, quantitative finance, and sports analytics.
 
-<br>
+### AI Decision Systems
 
-My research agenda examines how organizations and markets adapt under uncertainty. I use econometrics, causal inference, network analysis, machine learning, and optimization to study when new information improves decisions under realistic operational constraints.
-
-<br>
+Forecasting authority, macroeconomic diagnostics, and financial planning with explicit evaluation and decision controls.
 
 <p align="center">
-  <img src="assets/readme/research-map.svg" alt="Research agenda across applied economics, supply chains, AI-enabled decision support, and sustainability" width="100%" />
+  <a href="https://github.com/garroshub/AgentDecisionHarness"><img src="assets/readme/projects/agent-decision-harness.svg" width="420" alt="Agent Decision Harness — qualification-gated financial forecasts"></a>
+  <a href="https://github.com/garroshub/ai-economist-skill"><img src="assets/readme/projects/ai-economist-skill.svg" width="420" alt="AI Economist Skill — nowcasting and monetary policy diagnostics"></a>
+  <a href="https://github.com/garroshub/smart_money_planner_agent"><img src="assets/readme/projects/smart-money-planner.svg" width="420" alt="Smart Money Planner Agent — deterministic planning with optional AI interpretation"></a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://garroshub.github.io/AgentDecisionHarness/page-demo/"><img src="assets/readme/actions/harness-demo.svg" height="38" alt="Launch Agent Decision Harness demo"></a>
+  <a href="https://github.com/garroshub/AgentDecisionHarness/blob/main/paper/technical_report.pdf"><img src="assets/readme/actions/harness-report.svg" height="38" alt="Read Agent Decision Harness technical report"></a>
+  <a href="https://garroshub.github.io/ai-economist-skill/"><img src="assets/readme/actions/economist-dashboard.svg" height="38" alt="Launch AI Economist Skill dashboard"></a>
+</p>
 
-![Publications](https://img.shields.io/badge/Academic%20Publications-007396?style=flat-square&logo=bookstack&logoColor=white)
+### Quant Finance
 
-#### [Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://doi.org/10.1177/10591478261445692)
-- **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
-- **Journal**: *Production and Operations Management* (2026)
-- **Keywords**: empirical operations, emergency response, resource allocation, social-media signals, operational efficiency
+Two installable Python projects address different parts of portfolio decision-making: risk-aware allocation and tax-aware trade implementation.
 
-#### [Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence From Corporate Tax-Base Outcomes](https://doi.org/10.1002/mde.70150)
-- **Authors**: Gong, G., & Dimitrov, S.
-- **Journal**: *Managerial and Decision Economics* (2026)
-- **Keywords**: applied economics, trade policy, managerial adjustment, corporate tax, policy regimes
+<p align="center">
+  <a href="https://github.com/garroshub/portfolio-risk-lab"><img src="assets/readme/projects/portfolio-risk-lab.svg" width="420" alt="Portfolio Risk and Rebalancing Lab — covariance scenarios, calibration and portfolio risk"></a>
+  <a href="https://github.com/garroshub/taxrebalance"><img src="assets/readme/projects/taxrebalance.svg" width="420" alt="TaxRebalance — Canadian ACB, US tax lots and risk-constrained rebalancing"></a>
+</p>
 
-[![Research Page](https://img.shields.io/badge/Research%20Page-View-111827?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/trade_policy_adjustment_margins/)
+<p align="center">
+  <a href="https://garroshub.github.io/portfolio-risk-lab/"><img src="assets/readme/actions/risk-demo.svg" height="38" alt="Explore Portfolio Risk and Rebalancing Lab demo"></a>
+  <a href="https://garroshub.github.io/taxrebalance/"><img src="assets/readme/actions/tax-demo.svg" height="38" alt="Explore TaxRebalance demo"></a>
+</p>
 
-#### [Digital Strategies in Wildfire Management: Social Media Analytics and Web 3.0 Integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)
-- **Authors**: Gong, G., Dimitrov, S., & Bartolacci, M. R.
-- **Journal**: *Discover Sustainability* (2024)
-- **Keywords**: wildfire management, social media analytics, Web 3.0, digital coordination, decision support
+Python packages: `portfolio-risk-lab` · `taxrebalance`
 
-<br>
+### Sports Analytics
 
-![Conference Presentations](https://img.shields.io/badge/Conference%20Presentations-007396?style=flat-square&logo=microsoft-teams&logoColor=white)
+Public NBA and NCAA data used to assess defensive impact and opponent-adjusted team profiles.
 
-#### [Digital Strategies in Wildfire Management: The Advantage of Applying Social Media Analytics and Web 3.0 Integration](https://sites.psu.edu/informstna/conference-program)
-- **Presented at**: 2024 INFORMS Telecommunications and Network Analytics Conference, Dallas, TX
-- **Keywords**: digital operations, disaster response, information systems, predictive analytics
+<p align="center">
+  <a href="https://github.com/garroshub/NBA-Enhanced-Defensive-Index"><img src="assets/readme/projects/nba-defensive-index.svg" width="420" alt="NBA Enhanced Defensive Index — public-data defensive impact metrics"></a>
+  <a href="https://github.com/garroshub/college-basketball-defensive-fingerprint-scout"><img src="assets/readme/projects/ncaa-defensive-scout.svg" width="420" alt="NCAA Basketball Defensive Fingerprint Scout — opponent-adjusted defensive profiles"></a>
+</p>
 
-<br>
+---
 
-![Research In Process](https://img.shields.io/badge/Research%20In%20Process-007396?style=flat-square&logo=jupyter&logoColor=white)
+## Research Agenda
 
-#### Benchmarking Supply Chain Resilience: An Exposure-Conditioned Decision-Support Framework
-- **Status**: Major Revision, *Omega*
-- **Keywords**: supply-chain resilience, network exposure, risk benchmarking, business analytics, decision support
+**Business Analytics · AI-Enabled Decision Support · Sustainable Operations · Supply-Chain Resilience · Applied Economics and Finance**
 
-#### The Task-Specific Predictive and Decision Value of Customer Reconfiguration
-- **Status**: Under Peer Review, *Management Science*
-- **Authorship**: Solo-authored
-- **Keywords**: customer networks, supply-chain adaptation, predictive value, surveillance allocation, decision analytics
+My research studies how organizations and markets adapt under uncertainty. I use econometrics, causal inference, network analysis, machine learning, and optimization to examine when new information changes decisions under real operational constraints.
 
-#### [When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets](https://papers.ssrn.com/abstract=7005158)
-- **Status**: Major Revision, *Decision Sciences Journal*
-- **Keywords**: AI-enabled decision support, text analytics, prediction markets, probability calibration, risk decisions
+<p align="center">
+  <img src="assets/readme/research-map.svg" width="100%" alt="Research agenda spanning applied economics, supply chains, AI-enabled decision support and sustainable operations.">
+</p>
 
-#### Risk-Responsive Public Resource Allocation: Evidence and Decision Design in U.S. Wildfire Management
-- **Status**: Under Peer Review, *Manufacturing & Service Operations Management*
-- **Keywords**: resource allocation, sustainable operations, wildfire management, risk forecasting, constrained optimization
+## Selected Publications
 
-#### Integration Without Synchronization: Stage–Channel Fit in Firms' Climate Strategies Under Political Rollback Signals
-- **Status**: Under Peer Review, *Strategic Management Journal*
-- **Keywords**: corporate climate strategy, nonmarket strategy, political uncertainty, firm adaptation, sustainability
+**[Sustainable Wildfire Management Meets Social Media: How Virtual Interaction Affects Wildfire Response Costs](https://doi.org/10.1177/10591478261445692)** — *Production and Operations Management* (2026) · Gong, G., Dimitrov, S., & Bartolacci, M. R.
 
-#### A Multi-Margin View of Financial Decisions: Valuation and Trading Around the 2013 U.S. Tax Changes
-- **Status**: Under Peer Review, *Journal of International Financial Management & Accounting*
-- **Keywords**: financial economics, tax policy, event studies, valuation, trading behavior
+**[Trade-Policy Exposure and Managerial Adjustment Margins: Regime-Dependent Evidence From Corporate Tax-Base Outcomes](https://doi.org/10.1002/mde.70150)** — *Managerial and Decision Economics* (2026) · Gong, G., & Dimitrov, S. · [Research presentation](https://garroshub.github.io/trade_policy_adjustment_margins/)
 
-<br>
+**[Digital Strategies in Wildfire Management: Social Media Analytics and Web 3.0 Integration](https://link.springer.com/article/10.1007/s43621-024-00274-7)** — *Discover Sustainability* (2024) · Gong, G., Dimitrov, S., & Bartolacci, M. R.
 
-![AI-Enabled Decision Projects](https://img.shields.io/badge/AI--Enabled%20Decision-111827?style=flat-square&logo=github&logoColor=white)
+## Research in Progress
 
-I develop open-source tools that connect statistical models, machine learning, and AI agents with evidence-based business decisions. My projects focus on model validation, interpretability, and the conditions under which AI systems should influence or control a decision.
+- **Benchmarking Supply Chain Resilience: An Exposure-Conditioned Decision-Support Framework** — Major Revision, *Omega*
+- **The Task-Specific Predictive and Decision Value of Customer Reconfiguration** — Under Peer Review, *Management Science* · Solo-authored
+- **[When Text Helps: AI Text Signals for Calibration-Sensitive Tail-Risk Decisions in Prediction Markets](https://papers.ssrn.com/abstract=7005158)** — Major Revision, *Decision Sciences Journal*
+- **Risk-Responsive Public Resource Allocation: Evidence and Decision Design in U.S. Wildfire Management** — Under Peer Review, *Manufacturing & Service Operations Management*
+- **Integration Without Synchronization: Stage–Channel Fit in Firms' Climate Strategies Under Political Rollback Signals** — Under Peer Review, *Strategic Management Journal*
+- **A Multi-Margin View of Financial Decisions: Valuation and Trading Around the 2013 U.S. Tax Changes** — Under Peer Review, *Journal of International Financial Management & Accounting*
 
-#### [AI Economist Skill](https://github.com/garroshub/ai-economist-skill)
+## Conference Presentations
 
-An installable agent skill for macroeconomic nowcasting and monetary-policy analysis. It combines structural statistical baselines with machine-learning calibration to evaluate GDP forecasts and policy-rate signals for the United States and Canada. The workflow includes out-of-sample backtesting, data-timing controls, and interpretable model comparisons.
-
-**Focus**: Macroeconomic forecasting, interpretable ML, statistical modeling, central-bank policy diagnostics
-
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Explore-0e76a8?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/ai-economist-skill/)
-
-#### [Agent Decision Harness](https://github.com/garroshub/AgentDecisionHarness)
-
-An open-source framework for evidence-grounded financial prediction using LLMs and specialized statistical models. It evaluates when forecasting authority should be delegated to a specialist based on historical qualification, task applicability, and conditional routing. The framework also audits prediction records for consistency between classifications, estimates, intervals, and supporting evidence.
-
-**Focus**: Agentic AI, decision authority, financial forecasting, model governance, interpretable decision support
-
-[![Interactive Demo](https://img.shields.io/badge/Interactive%20Demo-Explore-0e76a8?style=flat-square&logo=githubpages&logoColor=white)](https://garroshub.github.io/AgentDecisionHarness/page-demo/)
-[![Technical Report](https://img.shields.io/badge/Technical%20Report-Read-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/garroshub/AgentDecisionHarness/blob/main/paper/technical_report.pdf)
-
-<br>
-
-![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics-111827?style=flat-square&logo=github&logoColor=white)
-
-As a side interest, I build basketball analytics projects. My [NBA Enhanced Defensive Index (EDI)](https://github.com/garroshub/NBA-Enhanced-Defensive-Index) and [NCAA Basketball Defensive Fingerprint Scout](https://github.com/garroshub/college-basketball-defensive-fingerprint-scout) use public NBA and NCAA data to evaluate defensive impact across multiple dimensions.
+**[Digital Strategies in Wildfire Management: The Advantage of Applying Social Media Analytics and Web 3.0 Integration](https://sites.psu.edu/informstna/conference-program)** — 2024 INFORMS Telecommunications and Network Analytics Conference · Dallas, TX
