@@ -42,19 +42,21 @@ Forecasting authority, macroeconomic diagnostics, and financial planning with ex
 
 ### Quant Finance
 
-Two installable Python projects address different parts of portfolio decision-making: risk-aware allocation and tax-aware trade implementation.
+Three Python tools cover portfolio risk and allocation, tax-aware rebalancing, and equity-option P&L attribution.
 
 <p align="center">
-  <a href="https://github.com/garroshub/portfolio-risk-lab"><img src="assets/readme/projects/portfolio-risk-lab.svg" width="420" alt="Portfolio Risk and Rebalancing Lab — covariance scenarios, calibration and portfolio risk"></a>
-  <a href="https://github.com/garroshub/taxrebalance"><img src="assets/readme/projects/taxrebalance.svg" width="420" alt="TaxRebalance — Canadian ACB, US tax lots and risk-constrained rebalancing"></a>
+  <a href="https://github.com/garroshub/portfolio-risk-lab"><img src="assets/readme/projects/portfolio-risk-lab.svg" width="420" alt="Portfolio Risk &amp; Rebalancing Lab — covariance scenarios, calibration, and portfolio risk"></a>
+  <a href="https://github.com/garroshub/taxrebalance"><img src="assets/readme/projects/taxrebalance.svg" width="420" alt="Tax-aware Portfolio Rebalancing Lab — Canadian ACB, US tax lots, and risk-constrained trades"></a>
+  <a href="https://github.com/garroshub/OptionRiskExplain"><img src="assets/readme/projects/option-risk-explainer.svg" width="420" alt="Option Risk Explainer: Daily P&amp;L Attribution — Greeks, pricing residuals, and contract-level exceptions"></a>
 </p>
 
 <p align="center">
   <a href="https://garroshub.github.io/portfolio-risk-lab/"><img src="assets/readme/actions/risk-demo.svg" height="38" alt="Explore Portfolio Risk and Rebalancing Lab demo"></a>
-  <a href="https://garroshub.github.io/taxrebalance/"><img src="assets/readme/actions/tax-demo.svg" height="38" alt="Explore TaxRebalance demo"></a>
+  <a href="https://garroshub.github.io/taxrebalance/"><img src="assets/readme/actions/tax-demo.svg" height="38" alt="Explore Tax-aware Portfolio Rebalancing Lab demo"></a>
+  <a href="https://garroshub.github.io/OptionRiskExplain/"><img src="assets/readme/actions/option-demo.svg" height="38" alt="Explore Option Risk Explainer demo"></a>
 </p>
 
-Python packages: `portfolio-risk-lab` · `taxrebalance`
+Python packages: `portfolio-risk-lab` · `taxrebalance` · `option-risk-explain`
 
 ### Sports Analytics
 

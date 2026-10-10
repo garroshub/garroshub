@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="124" viewBox="0 0 560 124" role="img" aria-labelledby="title desc">
+<title id="title">Option Risk Explainer: Daily P&amp;L Attribution</title>
+<desc id="desc">Explain option-book P&amp;L using Greeks, residuals and contract-level exceptions; open the GitHub repository.</desc>
+<rect x="1" y="1" width="558" height="122" rx="14" fill="#101820" stroke="#293846" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="122" rx="3" fill="#38bdf8"/>
+<rect x="19" y="18" width="101" height="88" rx="12" fill="#152733"/>
+<g transform="translate(20 8) scale(0.82)" color="#38bdf8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M27 76V27M27 76H94" stroke="currentColor" stroke-width="3" fill="none"/>
+<path d="M37 64L52 42L66 53L84 28" stroke="currentColor" stroke-width="3.4" fill="none"/>
+<path d="M38 24h26m-13-8v16" stroke="currentColor" stroke-width="2.8" fill="none"/>
+<circle cx="52" cy="42" r="5" stroke="currentColor" stroke-width="2.5" fill="#152733"/>
+<circle cx="84" cy="28" r="5" stroke="currentColor" stroke-width="2.5" fill="#152733"/>
+</g>
+<text x="139" y="29" font-size="13" font-weight="750" fill="#38bdf8" letter-spacing="2.2">QUANT FINANCE</text>
+<text x="139" y="54" font-size="25" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Option Risk Explainer</text>
+<text x="139" y="81" font-size="24" font-weight="720" fill="#f0f6fa" letter-spacing="-0.5">Daily P&amp;L Attribution</text>
+<text x="139" y="104" font-size="16" fill="#9bb0bd">Greeks, residuals &amp; exceptions</text>
+<path d="M525 54h15m-7-7 7 7-7 7" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
