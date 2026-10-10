@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=garroshubn&color=38bdf8&style=flat-square" alt="GitHub profile views">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dgarroshubn%26color%3D38bdf8%26style%3Dflat-square&amp;output=png&amp;maxage=1d" alt="GitHub profile views">
 </p>
 
 ## About
