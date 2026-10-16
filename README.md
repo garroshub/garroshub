@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dgarroshubn&amp;query=(%2F%2F*%5Blocal-name()%3D'text'%5D)%5Blast()%5D&amp;label=Profile%20views&amp;color=38bdf8&amp;style=flat-square&amp;cacheSeconds=300" alt="GitHub profile views">
+  <img src="https://komarev.com/ghpvc/?username=garroshubn&amp;style=pixel" width="1" height="1" alt="">
 </p>
 
 ## About
