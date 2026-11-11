@@ -27,18 +27,20 @@ I build research-driven decision tools that make assumptions, risk constraints, 
 
 ### AI Decision Systems
 
-Forecasting authority, macroeconomic diagnostics, and financial planning with explicit evaluation and decision controls.
+Forecasting authority, macroeconomic diagnostics, financial planning, and tool authorization with explicit evaluation and decision controls.
 
 <p align="center">
   <a href="https://github.com/garroshub/AgentDecisionHarness"><img src="assets/readme/projects/agent-decision-harness.svg" width="420" alt="Agent Decision Harness — qualification-gated financial forecasts"></a>
   <a href="https://github.com/garroshub/ai-economist-skill"><img src="assets/readme/projects/ai-economist-skill.svg" width="420" alt="AI Economist Skill — nowcasting and monetary policy diagnostics"></a>
   <a href="https://github.com/garroshub/smart_money_planner_agent"><img src="assets/readme/projects/smart-money-planner.svg" width="420" alt="Smart Money Planner Agent — deterministic planning with optional AI interpretation"></a>
+  <a href="https://github.com/garroshub/ControlLayer"><img src="assets/readme/projects/control-layer.svg" width="420" alt="Control Layer — authorization for tool-using agents, developing V0"></a>
 </p>
 
 <p align="center">
   <a href="https://garroshub.github.io/AgentDecisionHarness/page-demo/"><img src="assets/readme/actions/harness-demo.svg" height="38" alt="Launch Agent Decision Harness demo"></a>
   <a href="https://github.com/garroshub/AgentDecisionHarness/blob/main/paper/technical_report.pdf"><img src="assets/readme/actions/harness-report.svg" height="38" alt="Read Agent Decision Harness technical report"></a>
   <a href="https://garroshub.github.io/ai-economist-skill/"><img src="assets/readme/actions/economist-dashboard.svg" height="38" alt="Launch AI Economist Skill dashboard"></a>
+  <a href="https://garroshub.github.io/ControlLayer/page-demo/"><img src="assets/readme/actions/control-layer-demo.svg" height="38" alt="Launch Control Layer demo"></a>
 </p>
 
 ### Quant Finance
